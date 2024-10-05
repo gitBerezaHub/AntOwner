@@ -1,9 +1,10 @@
 <script setup lang="ts">
 
+import NavPanel from '@/widgets/NavPanel.vue'
 </script>
 
 <template>
-  <h1>News Feed</h1>
+  <NavPanel />
 </template>
 
 <style scoped lang="scss">
